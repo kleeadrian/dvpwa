@@ -1,0 +1,7 @@
+
+
+name: "My CodeQL config"
+
+queries:
+  - uses: security-and-quality
+  - uses: github/codeql/tree/main/python/ql/src@main
